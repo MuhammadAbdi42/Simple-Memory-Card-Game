@@ -1,6 +1,10 @@
 ### Simple Memory Card Game 🃏
 A basic memory card-matching game built in Unity. The goal is to flip cards and find all matching pairs.
 
+<p align="center">
+  <img src="https://github.com/MuhammadAbdi42/Simple-Memory-Card-Game/blob/main/Assets/Showcase.png?raw=true" alt="Flappy Bird Showcase Gif"/>
+</p>
+
 #### 🪶 Features
 - 🧠 Classic memory game mechanics
 - 🎚️ Multiple difficulty levels (Easy, Medium, Hard)
