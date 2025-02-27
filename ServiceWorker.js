@@ -1,9 +1,9 @@
 const cacheName = "MuhammadAbdi-Simple Memory Card Game-1.0";
 const contentToCache = [
-    "Build/Web2.loader.js",
-    "Build/Web2.framework.js",
-    "Build/Web2.data",
-    "Build/Web2.wasm",
+    "Build/Web.loader.js",
+    "Build/Web.framework.js",
+    "Build/Web.data",
+    "Build/Web.wasm",
     "TemplateData/style.css"
 
 ];
